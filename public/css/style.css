@@ -1,0 +1,20 @@
+#toggle_btn
+{
+    float: none;
+}
+.header{
+    background-color: #0c0058;
+}
+.header-left img
+{
+    background-color: white;
+    border-radius: 50%;
+}
+.page-title
+{
+    text-align: right;
+}
+.custom
+{
+    text-align: center;
+}
